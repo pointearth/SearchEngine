@@ -1,7 +1,11 @@
 # SearchEngine
 A common search platform. you can search easily. Based on Elasticsearch.
 # Features:
-- Search
-- Suggestion
-- Highlight support
-- Common Protocol
+- Keyword search
+- Autocomplete and Suggestions
+- Aggregation
+- Relevancy Ranking
+- Filters and Facets
+- Highlight
+- Popular search
+- Multiple cloud support
